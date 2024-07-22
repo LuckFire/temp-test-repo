@@ -1,0 +1,19 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openblox": "^1.0.21"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
